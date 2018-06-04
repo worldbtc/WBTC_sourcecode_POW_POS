@@ -39,6 +39,6 @@ Confirmations coins:12
 
 Min.Stake:5 days
 
-Max.Satake:60 days
+Max.Stake:60 days
 
 ===========================
