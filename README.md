@@ -21,9 +21,9 @@ Algorithm:Scrypt PoW/PoS
 
 2-214999 POS: 20%
 
-215000-45000 Block Reward: 2 coins
+215000-450000 Block Reward: 2 coins
 
-215000-45000 POS: 50%
+215000 - POS: 50%
 
 Total coins PoW: 210000000
 
