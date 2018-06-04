@@ -31,7 +31,7 @@ End Pow at 450000 Block
 
 Premine Amount:63000000
 
-Premine Percent % 30
+Premine Percent %: 30%
 
 Maturity coins:40
 
